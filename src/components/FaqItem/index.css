@@ -1,0 +1,33 @@
+button {
+  cursor: pointer;
+}
+
+.list-item-container {
+  margin: 25px 10px 25px 10px;
+  border: 0.5px solid #d7dae6;
+  padding: 15px;
+  border-radius: 10px;
+}
+.heading-and-extends-icon-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0px 10px 0px;
+  color: #52606d;
+}
+.icon-style {
+  margin-left: 10px;
+}
+.button-style {
+  background: none;
+  outline: none;
+  border: none;
+}
+.line-style {
+  margin: 15px 0px 15px 0px;
+  border: 1px solid #d7dae6;
+}
+.bottom-click-to-view-answer {
+  color: #9aa5b1;
+}
